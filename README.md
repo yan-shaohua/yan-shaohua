@@ -14,5 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-            [![yan-shaohua github stats](https://github-readme-stats.vercel.app/api?username=yan-shaohua)](//www.tianheyu.top)
+[![yan-shaohua github stats](https://github-readme-stats.vercel.app/api?username=yan-shaohua)](//www.tianheyu.top)
