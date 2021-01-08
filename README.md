@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[![yan-shaohua github stats](https://github-readme-stats.vercel.app/api?username=yan-shaohua&theme=blue-green&show_icons=true&repo=github-readme-stats)](//www.tianheyu.top)
 
 
-&emsp;&emsp;[![yan-shaohua github stats](https://github-readme-stats.vercel.app/api/pin?username=yan-shaohua&repo=yan-shaohua&theme=jolly)](//www.tianheyu.top)
-[![yan-shaohua github stats](https://github-readme-stats.vercel.app/api/pin?username=yan-shaohua&repo=yan-shaohua&theme=jolly)](//www.tianheyu.top)
+&emsp;&emsp;[![yan-shaohua github stats](https://github-readme-stats.vercel.app/api/pin?username=yan-shaohua&repo=yan-shao&theme=jolly)](//www.tianheyu.top)
+[![yan-shaohua github stats](https://github-readme-stats.vercel.app/api/pin?username=yan-shaohua&repo=SpringCloud&theme=jolly)](//www.tianheyu.top)
