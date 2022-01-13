@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 ### Java集合
 
 ### 多线程与高并发
-- notify和notifyAll的区别？
+- [notify和notifyAll的区别](http://www.baidu.com)
 
 
 
