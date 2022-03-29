@@ -21,17 +21,3 @@ Here are some ideas to get you started:
 
 
 
-### Java基础
-- 
-### Java集合
-
-### 多线程与高并发
-- #### [notify和notifyAll的区别](http://www.baidu.com)
-- #### [什么是多线程的上下文切换](http://www.baidu.com)
-- #### [有T1，T2，T3三个线程，怎么确保它们按顺序执行？怎样保证T2在T1执行完后执行，T3在T2执行完后执行？代码实现](http://www.baidu.com)
-- #### [多线程之间如何通信的？](http://www.baidu.com)
-- #### [产生死锁的四个必要条件](http://www.baidu.com)
-- #### [如何预防死锁（Deadlock）？](http://www.baidu.com)
-
-
-
